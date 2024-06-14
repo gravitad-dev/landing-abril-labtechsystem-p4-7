@@ -1,0 +1,200 @@
+{
+  "logo": {
+    "nav": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715362234/labtechsystem/upcy6itaoyaxwohax276.svg",
+    "footer": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715614024/labtechsystem/eqoh5ozbw3x3gyk03lzo.png"
+  },
+  "MENU_LINKS": [
+    {
+      "text": "Home",
+      "href": "#home",
+      "isExternal": false
+    },
+    {
+      "text": "Tools",
+      "href": "#tools",
+      "isExternal": false
+    },
+    {
+      "text": "Info",
+      "href": "#info",
+      "isExternal": false
+    },
+    {
+      "text": "Meet",
+      "href": "#meet",
+      "isExternal": false
+    },
+    {
+      "text": "Stats",
+      "href": "#stats",
+      "isExternal": false
+    },
+    {
+      "text": "Reviews",
+      "href": "#reviews",
+      "isExternal": false
+    },
+    {
+      "text": "Project",
+      "href": "#project",
+      "isExternal": false
+    },
+    {
+      "text": "Features",
+      "href": "#features",
+      "isExternal": false
+    },
+    {
+      "text": "Blog",
+      "href": "https://blog.com",
+      "isExternal": true
+    },
+    {
+      "text": "Contact",
+      "href": "#contact",
+      "isExternal": false
+    }
+  ],
+  "section-one": {
+    "title": "Teach students worldwide",
+    "desc": "Amet nunc diam orci duis ut sit diam arcu, nec. Eleifend proin massa tincidunt viverra lectus pulvinar. Nunc ipsum est pellentesque turpis ultricies.",
+    "img": {
+      "url": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715443912/labtechsystem/pv4hjjggyhddymb0wuch.png",
+      "alt": "conversations image"
+    },
+    "companies": {
+      "title": "Trusted by leading companies",
+      "logos": [
+        {
+          "src": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715443431/labtechsystem/companies-logos/xtdhmf0hlkszxod6oo8m.png",
+          "alt": "company logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715443431/labtechsystem/companies-logos/wmpokb00pvcbzyjsvnbz.png",
+          "alt": "company logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715443431/labtechsystem/companies-logos/gs4tkzd1fruiw33jfza2.png",
+          "alt": "company logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715443431/labtechsystem/companies-logos/x3k9tgtnkt9w3jk80nlq.png",
+          "alt": "company logo"
+        },
+        {
+          "src": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715443431/labtechsystem/companies-logos/hskmxa0d8zsxsxnoovsu.png",
+          "alt": "company logo"
+        }
+      ]
+    }
+  },
+  "section-two": {
+    "title": "All the tools that you need",
+    "desc": "Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris.Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse.",
+    "img": {
+      "url": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715445561/labtechsystem/edtipkf8e5odkwuzglbl.png",
+      "alt": "desktop image"
+    }
+  },
+  "section-three": {
+    "title": "An all-in-one app that makes it easier",
+    "desc": "Sit elit feugiat turpis sed integer integer accumsan turpis. Sed suspendisse nec lorem mauris. Pharetra, eu imperdiet ipsum ultrices amet, dui sit suspendisse.",
+    "list": [
+      "Est et in pharetra magna adipiscing ornare aliquam.",
+      "Tellus arcu sed consequat ac velit ut eu blandit.",
+      "Ullamcorper ornare in et egestas dolor orci."
+    ],
+    "img": {
+      "url": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715458600/labtechsystem/lv681dibxjux22trokga.png",
+      "alt": "info image"
+    }
+  },
+  "section-four": {
+    "title": "Meet international students & teachers",
+    "desc": "Morbi sit egestas dignissim pharetra, sed amet. Tempus justo senectus risus ac vel, velit, nunc. Eget commodo eget in aliquam facilisi facilisi nec magna hendrerit. Placerat ipsum sit tellus urna, faucibus aenean lorem faucibus integer.",
+    "btn": {
+      "text": "Explore teachers and students",
+      "href": "https://blog.com"
+    },
+    "img": {
+      "url": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715460064/labtechsystem/jrcl0wafhwdigrlwyye6.png",
+      "alt": "students gallery"
+    }
+  },
+  "section-five": {
+    "stats": [
+      {
+        "number": "195",
+        "text": "user countries"
+      },
+      {
+        "number": "1M",
+        "text": "value teachers"
+      },
+      {
+        "number": "17M",
+        "text": "happy students"
+      }
+    ]
+  },
+  "section-six": {
+    "title": "What everyone says",
+    "reviews": [
+      {
+        "comment": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi.",
+        "name": "Hellen Jummy",
+        "role": "Financial Counselor",
+        "img": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715538753/labtechsystem/g9enzoigaeazl6izxpan.png"
+      },
+      {
+        "comment": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi.",
+        "name": "Ralph Edwards",
+        "role": "Financial Counselor",
+        "img": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715538753/labtechsystem/g9enzoigaeazl6izxpan.png"
+      },
+      {
+        "comment": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi.",
+        "name": "Hellena John",
+        "role": "Financial Counselor",
+        "img": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715538753/labtechsystem/g9enzoigaeazl6izxpan.png"
+      },
+      {
+        "comment": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi.",
+        "name": "Alice Smith",
+        "role": "Financial Counselor",
+        "img": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715538753/labtechsystem/g9enzoigaeazl6izxpan.png"
+      },
+      {
+        "comment": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi.",
+        "name": "Alex Jones",
+        "role": "Financial Counselor",
+        "img": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715538753/labtechsystem/g9enzoigaeazl6izxpan.png"
+      },
+      {
+        "comment": "Lacus vestibulum ultricies mi risus, duis non, volutpat nullam non. Magna congue nisi maecenas elit aliquet eu sed consectetur. Vitae quis cras vitae praesent morbi adipiscing purus consectetur mi.",
+        "name": "Tina Smith",
+        "role": "Financial Counselor",
+        "img": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715538753/labtechsystem/g9enzoigaeazl6izxpan.png"
+      }
+    ]
+  },
+  "section-seven": {
+    "title": "All the cool features",
+    "desc": "Mauris consequat, cursus pharetra et, habitasse rhoncus quis odio ac. In et dolor eu donec maecenas nulla. Cum sed orci, sit pellentesque quisque feugiat cras ullamcorper. Ultrices in amet, ullamcorper non viverra a, neque orci.",
+    "img": {
+      "url": "https://res.cloudinary.com/dsctegb2r/image/upload/v1715540761/labtechsystem/h8rrx2vz1ilim4jbwkzm.png",
+      "alt": "alt image"
+    }
+  },
+  "section-eight": {
+    "title": "Join a world of learning",
+    "desc": "Malesuada ut aliquam at ac est nisi, interdum etiam dignissim. Risus elit et fringilla habitant ut facilisi.",
+    "btn": { "text": "Contact", "href": "mailto:qKsKf@example.com" }
+  },
+  "section-projects": {
+    "title": "Our Project",
+    "projectImg": { "url": "/project-img.jpg", "alt": "project" },
+    "projectTitle": "Project Title",
+    "projectDesc": "Morbi sit egestas dignissim pharetra, sed amet. Tempus justo senectus risus ac vel, velit, nunc. Eget commodo eget in aliquam facilisi facilisi nec magna hendrerit. Placerat ipsum sit tellus urna, faucibus aenean lorem faucibus integer."
+  }
+}
