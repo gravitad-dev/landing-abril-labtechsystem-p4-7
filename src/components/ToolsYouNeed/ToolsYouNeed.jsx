@@ -7,9 +7,9 @@ const ToolsYouNeed = () => {
     <section className='flex flex-col gap-8' id='tools'>
       <div className='text-left md:text-center'>
         <h2 className='subtitle'>{title}</h2>
-        <p className='paragraph mt-2 max-w-[360px] md:mx-auto'>{desc}</p>
+        <p className='paragraph mt-2 max-w-[700px] md:mx-auto'>{desc}</p>
       </div>
-      <figure className='rounded-md overflow-hidden shadow-md md:h-[600px] mx-auto'>
+      <figure className='rounded-md overflow-hidden shadow-md md:h-[600px] md:mx-auto'>
         <img
           src={img.url}
           alt={img.alt}

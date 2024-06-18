@@ -12,7 +12,7 @@ const Meet = () => {
         <FaJetFighter className='absolute top-[-10px] right-[20px] text-[30px] z-1 text-custom-yellow' />
         <h2 className='subtitle'>{title}</h2>
         <p className='paragraph'>{desc}</p>
-        <a
+        {/* <a
           href={btn.href}
           className=' text-custom-blue-800 font-semibold
         flex items-center gap-2 hover:underline
@@ -20,9 +20,9 @@ const Meet = () => {
         >
           {btn.text}
           <FaArrowRightLong />
-        </a>
+        </a> */}
       </div>
-      <figure className='h-[300px] md:h-[500px]'>
+      <figure className='md:h-[500px]'>
         <img
           src={img.url}
           alt={img.alt}

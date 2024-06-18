@@ -2,6 +2,7 @@ import getData from '../../utils/getData';
 
 const Features = () => {
   const { title, desc, img } = getData()['section-seven'];
+
   return (
     <section
       className='
@@ -18,7 +19,7 @@ const Features = () => {
         <img
           src={img.url}
           alt={img.alt}
-          className='w-full md:w-[70%] h-full  object-contain'
+          className='w-full md:w-[70%] h-full  object-contain rounded-md'
         />
       </figure>
     </section>
