@@ -22,10 +22,10 @@ const Projects = () => {
         <div
           className=' 
         absolute inset-0 z-1 flex flex-col justify-center items-center text-center
-        text-custom-white
+        text-custom-white px-4
         '
         >
-          <h3 className='font-semibold text-[30px]'>{projectTitle}</h3>
+          {/* <h3 className='font-semibold text-[30px]'>{projectTitle}</h3> */}
           <p className='paragraph max-w-[600px] max-auto lg:text-[18px]'>
             {projectDesc}
           </p>

@@ -7,7 +7,7 @@ const Hero = () => {
 
   return (
     <section
-      className='grid gap-[60px] md:gap-0 md:grid-cols-2 md:justify-between pt-10'
+      className='grid gap-[60px] md:gap-0 md:grid-cols-2 md:justify-between pt-[90px]'
       id='home'
     >
       {/* text */}
@@ -21,7 +21,7 @@ const Hero = () => {
         </CustomBtn>
 
         {/* companies logos */}
-        <div className='flex flex-col gap-4 mt-5 lg:flex-row lg:items-center'>
+        {/* <div className='flex flex-col gap-4 mt-5 lg:flex-row lg:items-center'>
           <p className='paragraph text-custom-blue/gray-600 max-w-[135px]'>
             {companies.title}
           </p>
@@ -35,14 +35,14 @@ const Hero = () => {
               />
             ))}
           </div>
-        </div>
+        </div> */}
       </div>
       {/* img */}
       <figure className='max-h-[500px] w-full'>
         <img
           src={img.url}
           alt={img.alt}
-          className='w-full h-full object-contain'
+          className='w-full h-full object-contain  rounded-md'
         />
       </figure>
     </section>
