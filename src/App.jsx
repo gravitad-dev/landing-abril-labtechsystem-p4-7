@@ -27,7 +27,6 @@ function App() {
         <ToolsYouNeed />
         <Info />
         <Meet />
-        <Stats />
         <Reviews />
         <Projects />
         <Features />
