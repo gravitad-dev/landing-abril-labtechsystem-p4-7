@@ -5,42 +5,42 @@
   },
   "MENU_LINKS": [
     {
-      "text": "Home",
+      "text": "Principal",
       "href": "#home",
       "isExternal": false
     },
     {
-      "text": "Tools",
+      "text": "Heramientas",
       "href": "#tools",
       "isExternal": false
     },
     {
-      "text": "Info",
+      "text": "Información",
       "href": "#info",
       "isExternal": false
     },
     {
-      "text": "Meet",
+      "text": "Conoce",
       "href": "#meet",
       "isExternal": false
     },
     {
-      "text": "Stats",
+      "text": "Stadisticas",
       "href": "#stats",
       "isExternal": false
     },
     {
-      "text": "Reviews",
+      "text": "Reseñas",
       "href": "#reviews",
       "isExternal": false
     },
     {
-      "text": "Project",
+      "text": "Proyecto",
       "href": "#project",
       "isExternal": false
     },
     {
-      "text": "Features",
+      "text": "Caracteristicas",
       "href": "#features",
       "isExternal": false
     },
@@ -50,14 +50,14 @@
       "isExternal": true
     },
     {
-      "text": "Contact",
+      "text": "Contacto",
       "href": "#contact",
       "isExternal": false
     }
   ],
   "section-one": {
-    "title": "Who We Are",
-    "desc": "At labtechsystem, we are dedicated tech experts specializing in AI and Low Code solutions. Our team is passionate about driving technological advancements that simplify and enhance business processes, enabling organizations to achieve more with less effort.",
+    "title": "¿Quiénes somos?",
+    "desc": "En labtechsystem, somos expertos en tecnología dedicados y especializados en soluciones de IA y Low Code. A nuestro equipo le apasiona impulsar avances tecnológicos que simplifiquen y mejoren los procesos comerciales, permitiendo a las organizaciones lograr más con menos esfuerzo.",
     "img": {
       "url": "/hero-img.webp",
       "alt": "conversations image"
@@ -89,21 +89,21 @@
     }
   },
   "section-two": {
-    "title": "What Makes Us Different",
-    "desc": "Our unique approach combines advanced AI with the simplicity of Low Code, enabling us to deliver powerful, easy-to-use solutions. We focus on understanding your specific needs to provide customized, impactful results.",
+    "title": "",
+    "desc": "",
     "img": {
       "url": "/ai-writing.webp",
       "alt": "ai writing image"
     }
   },
   "section-three": {
-    "title": "Our Services",
+    "title": "Nuestros Servicios",
     "list": [
-      "AI Solutions: Tailored AI applications to meet specific business needs.",
-      "Low Code Development: Rapid application development with minimal hand-coding.",
-      "Data Analytics: Converting data into actionable insights.",
-      "Business Process Automation: Enhancing efficiency through automated workflows.",
-      "Consulting Services: Expert advice to guide your digital transformation."
+      "Soluciones de IA: aplicaciones de IA personalizadas para satisfacer necesidades empresariales específicas.",
+      "Desarrollo de código bajo: desarrollo rápido de aplicaciones con codificación manual mínima.",
+      "Análisis de datos: convertir datos en conocimientos prácticos.",
+      "Automatización de procesos de negocio: mejora de la eficiencia a través de flujos de trabajo automatizados.",
+      "Servicios de Consultoría: Asesoramiento experto para guiar su transformación digital."
     ],
     "img": {
       "url": "/info-img.jpeg",
@@ -111,8 +111,8 @@
     }
   },
   "section-four": {
-    "title": "Our Mission",
-    "desc": "Our mission is to provide intelligent, low-code solutions that streamline business processes, reduce complexity, and accelerate innovation.",
+    "title": "Nuestra Misión",
+    "desc": "Nuestra misión es proporcionar soluciones inteligentes y de bajo código que agilicen los procesos comerciales, reduzcan la complejidad y aceleren la innovación.",
     "btn": {
       "text": "Explore teachers and students",
       "href": "https://blog.com"
@@ -139,45 +139,45 @@
     ]
   },
   "section-six": {
-    "title": "What everyone says",
+    "title": "Lo que dice todo el mundo",
     "reviews": [
       {
-        "comment": "Labtechsystem's AI solutions have significantly optimized our processes, saving us time and resources. Their expertise in low code made the integration seamless.",
+        "comment": "Las soluciones de IA de Labtechsystem han optimizado significativamente nuestros procesos, ahorrándonos tiempo y recursos. Su experiencia en código bajo hizo que la integración fuera perfecta.",
         "name": "Maria Gonzalez",
-        "role": " CTO of InnovateTech",
+        "role": " CTO de InnovateTech",
         "img": "/user-icon.webp"
       },
       {
-        "comment": "The low code development services from labtechsystem enabled us to quickly deploy new applications, enhancing our operational efficiency and responsiveness.",
+        "comment": "Los servicios de desarrollo de código bajo de labtechsystem nos permitieron implementar rápidamente nuevas aplicaciones, mejorando nuestra eficiencia operativa y capacidad de respuesta",
         "name": "David Brown",
-        "role": " Head of Operations at GreenFlow",
+        "role": "Jefe de operaciones de GreenFlow",
         "img": "/user-icon.webp"
       },
       {
-        "comment": "Labtechsystem transformed our data handling with their advanced AI and low code solutions, providing us with deep insights and actionable data, driving our strategic decisions.",
+        "comment": "Labtechsystem transformó nuestro manejo de datos con sus soluciones avanzadas de inteligencia artificial y código bajo, brindándonos conocimientos profundos y datos procesables, impulsando nuestras decisiones estratégicas",
         "name": "Lisa Wang",
-        "role": "Data Analytics Director at MarketTrend",
+        "role": "Directora de análisis de datos de MarketTrend",
         "img": "/user-icon.webp"
       }
     ]
   },
   "section-seven": {
-    "title": "What Makes Us Different",
-    "desc": "Our unique approach combines advanced AI with the simplicity of Low Code, enabling us to deliver powerful, easy-to-use solutions. We focus on understanding your specific needs to provide customized, impactful results.",
+    "title": "¿Qué nos Diferencia?",
+    "desc": "Nuestro enfoque único combina IA avanzada con la simplicidad de Low Code, lo que nos permite ofrecer soluciones potentes y fáciles de usar. Nos enfocamos en comprender sus necesidades específicas para brindar resultados personalizados e impactantes.",
     "img": {
       "url": "/make-us.jpg",
       "alt": "alt image"
     }
   },
   "section-eight": {
-    "title": "Ready to elevate your business with cutting-edge AI and Low Code solutions?",
-    "desc": "Partner with labtechsystem today and experience the future of technology. Contact us now to start your journey towards unparalleled efficiency and innovation. Transform your operations, reduce complexity, and unlock new opportunities with our expert team by your side. Join the ranks of successful businesses that trust labtechsystem for their digital transformation needs. Let's innovate together!",
-    "btn": { "text": "Contact", "href": "mailto:qKsKf@example.com" }
+    "title": "¿Listo para mejorar su negocio con soluciones de IA y Low Code de vanguardia?",
+    "desc": "Asóciese con labtechsystem hoy y experimente el futuro de la tecnología. Contáctenos ahora para comenzar su viaje hacia una eficiencia e innovación incomparables. Transforme sus operaciones, reduzca la complejidad y descubra nuevas oportunidades con nuestro equipo de expertos a su lado. Únase a las filas de empresas exitosas que confían en labtechsystem para sus necesidades de transformación digital. ¡Innovemos juntos!",
+    "btn": { "text": "Empezar", "href": "mailto:qKsKf@example.com" }
   },
   "section-projects": {
-    "title": "Our Vision",
+    "title": "Nuestra Visión",
     "projectImg": { "url": "/project-img.jpg", "alt": "team meet" },
     "projectTitle": "Project Title",
-    "projectDesc": "We envision a future where businesses of all sizes leverage AI and Low Code to transform their operations, fostering a culture of continuous improvement and innovation."
+    "projectDesc": "Visualizamos un futuro en el que empresas de todos los tamaños aprovechen la IA y el Low Code para transformar sus operaciones, fomentando una cultura de mejora e innovación continuas."
   }
 }
