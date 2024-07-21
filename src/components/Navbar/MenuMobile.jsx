@@ -3,12 +3,12 @@ import RenderLinks from '../ui/RenderLinks';
 
 const MenuMobile = () => {
   return (
-    <div className='dropdown '>
-      <div className='dropdown dropdown-end'>
+    <div className="dropdown ">
+      <div className="dropdown dropdown-end">
         <Hamburguer />
         <ul
           tabIndex={0}
-          className='dropdown-content  text-custom-white z-[1] menu p-2 shadow bg-base-100 rounded-box w-52'
+          className="dropdown-content text-black z-[1] menu p-2 shadow bg-base-100 rounded-box w-52"
         >
           {RenderLinks()}
         </ul>
