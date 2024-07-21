@@ -7,18 +7,20 @@ const Hero = () => {
 
   return (
     <section
-      className='grid gap-[60px] md:gap-0 md:grid-cols-2 md:justify-between pt-[90px]'
-      id='home'
+      className="grid gap-[60px] md:gap-0 md:grid-cols-2 md:justify-between pt-[90px]"
+      id="home"
     >
       {/* text */}
-      <div className='w-full max-w-[500px] max-h-[500px] flex flex-col justify-center  gap-4'>
-        <h1 className='font-bold text-[40px] text-balance'>{title}</h1>
-        <p className='w-[90%] paragraph'>{desc}</p>
-        <CustomBtn>
-          <a href='blog.com' target='_blank' rel='noreferrer'>
-            Know more
-          </a>
-        </CustomBtn>
+      <div className="w-full max-w-[500px] max-h-[500px] flex flex-col justify-center  gap-4">
+        <h1 className="font-bold text-[40px] text-balance">{title}</h1>
+        <p className="w-[90%] paragraph">{desc}</p>
+        <a
+          href="https://blog.labtechsystem.com/"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <CustomBtn>Conoce más</CustomBtn>
+        </a>
 
         {/* companies logos */}
         {/* <div className='flex flex-col gap-4 mt-5 lg:flex-row lg:items-center'>
@@ -38,11 +40,11 @@ const Hero = () => {
         </div> */}
       </div>
       {/* img */}
-      <figure className='max-h-[500px] w-full'>
+      <figure className="max-h-[500px] w-full">
         <img
           src={img.url}
           alt={img.alt}
-          className='w-full h-full object-contain  rounded-md'
+          className="w-full h-full object-contain  rounded-md"
         />
       </figure>
     </section>

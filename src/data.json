@@ -20,12 +20,12 @@
       "isExternal": false
     },
     {
-      "text": "Conoce",
+      "text": "Explorar",
       "href": "#meet",
       "isExternal": false
     },
     {
-      "text": "Stadisticas",
+      "text": "Etadísticas",
       "href": "#stats",
       "isExternal": false
     },
@@ -51,8 +51,8 @@
     },
     {
       "text": "Contacto",
-      "href": "#contact",
-      "isExternal": false
+      "href": "https://blog.labtechsystem.com/contacto/",
+      "isExternal": true
     }
   ],
   "section-one": {
@@ -172,7 +172,10 @@
   "section-eight": {
     "title": "¿Listo para mejorar su negocio con soluciones de IA y Low Code de vanguardia?",
     "desc": "Asóciese con labtechsystem hoy y experimente el futuro de la tecnología. Contáctenos ahora para comenzar su viaje hacia una eficiencia e innovación incomparables. Transforme sus operaciones, reduzca la complejidad y descubra nuevas oportunidades con nuestro equipo de expertos a su lado. Únase a las filas de empresas exitosas que confían en labtechsystem para sus necesidades de transformación digital. ¡Innovemos juntos!",
-    "btn": { "text": "Empezar", "href": "mailto:qKsKf@example.com" }
+    "btn": {
+      "text": "Empezar",
+      "href": "https://blog.labtechsystem.com"
+    }
   },
   "section-projects": {
     "title": "Nuestra Visión",
